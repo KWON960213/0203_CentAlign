@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+hr {
+    margin: 30px;
+}
+
+div {
+    border: 1px solid #000;
+}
+
+div#rowAlign {
+    text-align: center;
+    border: 1px solid #000;
+}
+
+span {
+    border: 1px solid #f80;
+
+}
+div#colAlign {
+    box-sizing: border-box;
+    border: 1px solid #f80;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding-top: 91px;
+}
+div#colAlign>span {
+
+}
